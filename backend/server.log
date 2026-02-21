@@ -3,3 +3,116 @@
 > node server.js
 
 🚀 Server running on port 5003
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted address: ygdufbxakollatrsvhih.supabase.co:443, timeout: 10000ms)
+      at onConnectTimeout (node:internal/deps/undici/undici:1946:23)
+      at Immediate._onImmediate (node:internal/deps/undici/undici:1927:11)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted address: ygdufbxakollatrsvhih.supabase.co:443, timeout: 10000ms)
+      at onConnectTimeout (node:internal/deps/undici/undici:1946:23)
+      at Immediate._onImmediate (node:internal/deps/undici/undici:1927:11)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted address: ygdufbxakollatrsvhih.supabase.co:443, timeout: 10000ms)
+      at onConnectTimeout (node:internal/deps/undici/undici:1946:23)
+      at Immediate._onImmediate (node:internal/deps/undici/undici:1927:11)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: Error: getaddrinfo ENOTFOUND ygdufbxakollatrsvhih.supabase.co
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:121:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ygdufbxakollatrsvhih.supabase.co'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: Error: getaddrinfo ENOTFOUND ygdufbxakollatrsvhih.supabase.co
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:121:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ygdufbxakollatrsvhih.supabase.co'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: Error: getaddrinfo ENOTFOUND ygdufbxakollatrsvhih.supabase.co
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:121:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ygdufbxakollatrsvhih.supabase.co'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async _handleRequest (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:101:18)
+    at async _request (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/fetch.js:91:18)
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1831:24
+    at async /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:207:36 {
+  [cause]: Error: getaddrinfo ENOTFOUND ygdufbxakollatrsvhih.supabase.co
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:121:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'ygdufbxakollatrsvhih.supabase.co'
+  }
+}
+SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/body-parser/lib/types/json.js:92:19)
+    at /Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:213:14)
+    at invokeCallback (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/raw-body/index.js:238:16)
+    at done (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/Users/darshanpatil/Documents/Cavista/cavista/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:508:28)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
